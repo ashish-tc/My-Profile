@@ -8,4 +8,4 @@
 ashish-tc/ashish-tc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom
+<a href="https://app.daily.dev/Ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=lee" width="400" alt="Ashish Singh's Dev Card"/></a>
