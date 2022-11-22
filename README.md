@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashish-tc](https://github.com/ashish-tc)
 
-- 💬 Ask me about **Related A+, N+ and CCNA.**
+- 💬 Ask me about **Related AWS, Cloud Computing, EC2, A+, N+ and CCNA.**
 
 - 📫 How to reach me **ashish.tecocraft@gmail.com**
 
